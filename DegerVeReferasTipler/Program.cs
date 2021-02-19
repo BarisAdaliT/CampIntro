@@ -22,6 +22,7 @@ namespace DegerVeReferasTipler
             sayilar2[0] = 999;
             //sayilar1[0] = ?? (999) sayilar2[0] = 999
 
+
             //int,dacimal,double,bool = deger tip
             //array,class,interface=referans tip
 
